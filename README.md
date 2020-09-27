@@ -16,6 +16,9 @@
 
 ## **Summary**
  - In conclusion based on the **Outcomes based on Launch Date** ***October and December*** was the worst months for **plays** to be **launched in theaters** because of the fact they had just as much **succesful outcomes as failed**. However **October** was the only month to have **(zero) canceled**. Overall **May** has the most **successful outcome**. In addition based on **Outcomes based on Goals** i can conclude more than half of the **goals** was unsuccessful between (*fifteen thousand and thity-five thousand*). I would recommend making the **goal** to (*less then a thousand*) due to being the highest success rate .
+ ![October_December_Outcomes](https://user-images.githubusercontent.com/71118429/94367337-e7da4a00-0092-11eb-8035-c614fdb787dd.png)
+ 
+ ![Sum_of_percentag_failed](https://user-images.githubusercontent.com/71118429/94367645-e4e05900-0094-11eb-8e13-5f44be5ca92b.png)
 
 ## **Challenges and Difficulties Encountered**
   - Some challenges i experienced were using the "**=COUNTIFS()**" formula i was stuck for about an hour. I couldn't get the right numbers plugged in or the formula wouldn't function. I solved this by going back through the sections and looking back through my notes . Another problem i encoutered was getting "**Outcomes based on Goals**" line chart to function on top of that my line chart was off due to missing numbers. I ended up double checking my numbers i found out there was a row missing i ended up pluggin in that row to get my percentages right and my line chart working.
